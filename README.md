@@ -35,9 +35,9 @@ Crafting beautiful web experiences with a focus on responsive design, performanc
 
 ### 💬 Let's Connect
 
-- 💌 [Email](ahmedrazakhan2030.com)  
+- 💌 [Email](ahmedrazakhan2030@gmail.com)  
 - 🌐 [Portfolio](https://yourportfolio.com)    
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-raza-khan-160523351/)
 
 ---
 
