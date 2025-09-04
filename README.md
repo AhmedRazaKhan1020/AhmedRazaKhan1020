@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Ahmed Raza Khan! 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&logoColor=white)](https://www.linkedin.com/in/ahmed-raza-khan-160523351/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=vercel)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=vercel)](ahmedrazakhan-portfolio.netlify.app/)
 [![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/AhmedRazaKhan1020)
 
 ---
