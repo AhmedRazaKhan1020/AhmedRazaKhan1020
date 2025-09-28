@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Frontend Developer | React Enthusiast | UI/UX Explorer  
+## 🚀 Full Stack Developer | React Enthusiast | UI/UX Explorer  
 
 Crafting beautiful web experiences with a focus on responsive design, performance, and clean code. Passionate about learning, creating, and pushing the limits of what’s possible on the web.
 
@@ -36,7 +36,7 @@ Crafting beautiful web experiences with a focus on responsive design, performanc
 ### 💬 Let's Connect
 
 - 💌 [Email](ahmedrazakhan2030@gmail.com)  
-- 🌐 [Portfolio](https://yourportfolio.com)    
+- 🌐 [Portfolio](https://ahmedrazakhan-portfolio.netlify.app/)    
 - 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-raza-khan-160523351/)
 
 ---
