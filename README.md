@@ -1,9 +1,4 @@
 # 👋 Hi there, I'm Ahmed Raza Khan! 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&logoColor=white)](https://www.linkedin.com/in/ahmed-raza-khan-160523351/) 
-[![Portfolio](ahmedrazakhan-portfolio.netlify.app/)
-[![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/AhmedRazaKhan1020)
-
 ---
 
 ## 🚀 Full Stack Developer | React Enthusiast | UI/UX Explorer  
